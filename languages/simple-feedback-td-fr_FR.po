@@ -1,0 +1,247 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Feedback v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-09-18 14:54:21+0000\n"
+"Last-Translator: admin <t.herzog@inpsyde.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: inc/add-meta-box.php:10
+#@ simple-feedback-td
+msgid "Rating"
+msgstr "Passez en revue"
+
+#: inc/add-meta-box.php:19
+#@ simple-feedback-td
+msgid "Positive Rating"
+msgstr "Note positive"
+
+#: inc/add-meta-box.php:23
+#@ simple-feedback-td
+msgid "Negative Rating"
+msgstr "Note négative"
+
+#: inc/add-meta-box.php:27
+#@ simple-feedback-td
+msgid "Abstinence Rating"
+msgstr "Note abstinence"
+
+#: inc/add-meta-box.php:31
+#@ simple-feedback-td
+msgid "Status"
+msgstr "Statut"
+
+#: inc/add-meta-box.php:34
+#@ simple-feedback-td
+msgid "Open"
+msgstr "Ouvert"
+
+#: inc/add-meta-box.php:35
+#@ simple-feedback-td
+msgid "Accepted"
+msgstr "Acceptée"
+
+#: inc/add-meta-box.php:36
+#@ simple-feedback-td
+msgid "Declined"
+msgstr "Refusée"
+
+#: inc/add-meta-box.php:37
+#: inc/the-topic.php:105
+#@ simple-feedback-td
+msgid "Undecided"
+msgstr "Indécis"
+
+#: inc/closed-topics.php:33
+#: inc/open-topics.php:28
+#: inc/register-post-type.php:22
+#@ simple-feedback-td
+msgid "Topic"
+msgstr "Sujet"
+
+#: inc/closed-topics.php:34
+#: inc/open-topics.php:29
+#: inc/topic-columns.php:15
+#@ simple-feedback-td
+#@ default
+msgid "Author"
+msgstr "Auteur"
+
+#: inc/closed-topics.php:35
+#@ simple-feedback-td
+msgid "Conclusion"
+msgstr "Conclusion"
+
+#: inc/closed-topics.php:52
+#: inc/open-topics.php:52
+#: inc/the-topic.php:94
+#: inc/the-topic.php:122
+#: inc/the-topic.php:150
+#@ simple-feedback-td
+msgid "Anonym"
+msgstr "Anonyme"
+
+#: inc/closed-topics.php:63
+#@ simple-feedback-td
+msgid "Currently there are no closed topics."
+msgstr "Actuellement, il n'y a pas de sujets fermés."
+
+#: inc/open-topics.php:30
+#@ simple-feedback-td
+msgid "Expiration"
+msgstr "Expiration"
+
+#: inc/open-topics.php:63
+#@ simple-feedback-td
+msgid "Currently there are no open topics."
+msgstr "Actuellement, il n'y a pas de sujets ouverts."
+
+#: inc/options-page.php:11
+#: inc/options-page.php:27
+#@ default
+msgid "Settings"
+msgstr ""
+
+#: inc/options-page.php:33
+#@ default
+msgid "Settings saved."
+msgstr ""
+
+#: inc/options-page.php:44
+#@ simple-feedback-td
+msgid "Help"
+msgstr "Aide"
+
+#: inc/options-page.php:47
+#@ simple-feedback-td
+msgid "Create two pages where the topics should be shown."
+msgstr "Création de deux pages où les sujets doivent être représentés."
+
+#: inc/options-page.php:48
+#@ simple-feedback-td
+msgid "Add the shortcode [topics-open] to the page where the topics appear which are currently in vote."
+msgstr "Ajouter le shortcode [sujets ouverts] à la page où apparaissent les sujets qui sont actuellement en vote."
+
+#: inc/options-page.php:49
+#@ simple-feedback-td
+msgid "Add the shortcode [topics-closed] to the page where the topics appear which have been voted."
+msgstr "Ajouter le shortcode [topics-closed] à la page où apparaissent les thèmes qui ont été voté."
+
+#: inc/options-page.php:50
+#@ simple-feedback-td
+msgid "Head back here to set the options."
+msgstr "Revenez ici pour définir les options."
+
+#: inc/options-page.php:55
+#@ simple-feedback-td
+msgid "Powered by"
+msgstr "Powered by"
+
+#: inc/options-page.php:58
+#@ simple-feedback-td
+msgid "This plugin is powered by Inpsyde.com - Your expert for WordPress, BuddyPress and bbPress."
+msgstr "This plugin is powered by Inpsyde.com - Your expert for WordPress, BuddyPress and bbPress."
+
+#: inc/options-page.php:73
+#@ simple-feedback-td
+msgid "Redirection"
+msgstr "Redirection"
+
+#: inc/options-page.php:81
+#@ simple-feedback-td
+msgid "Choose the page to where the user will be redirected if he head to the custom post type archive page. You should redirect him to the page, where the open topics are displayed."
+msgstr "Choisissez la page à l'endroit où l'utilisateur sera redirigé s'il diriger vers la page d'archive de type poste de douane. Vous devriez le rediriger vers la page, où les sujets ouverts sont affichés."
+
+#: inc/options-page.php:86
+#@ simple-feedback-td
+msgid "Expiration Base"
+msgstr "Base d'Expiration"
+
+#: inc/options-page.php:90
+#@ simple-feedback-td
+msgid "Set the main expiration time of the topics in days."
+msgstr "Réglez l'heure d'expiration principale des sujets en quelques jours."
+
+#: inc/options-page.php:96
+#@ default
+msgid "Save Changes"
+msgstr ""
+
+#: inc/register-post-type.php:12
+#: inc/register-post-type.php:15
+#: inc/register-post-type.php:19
+#@ simple-feedback-td
+msgid "Topics"
+msgstr "Sujets"
+
+#: inc/register-post-type.php:13
+#: inc/register-post-type.php:20
+#@ simple-feedback-td
+msgid "Add Topic"
+msgstr "Ajouter un sujet"
+
+#: inc/register-post-type.php:14
+#@ simple-feedback-td
+msgid "New Topics"
+msgstr "Nouveaux sujets"
+
+#: inc/register-post-type.php:16
+#@ simple-feedback-td
+msgid "Edit Topic"
+msgstr "Modifier sujet"
+
+#: inc/register-post-type.php:17
+#@ simple-feedback-td
+msgid "View Topic"
+msgstr "Voir le sujet"
+
+#: inc/register-post-type.php:18
+#: inc/register-post-type.php:24
+#@ simple-feedback-td
+msgid "There are no Topics matching the search criterias"
+msgstr "Il n'y a pas de sujets correspondant aux critères de recherche"
+
+#: inc/register-post-type.php:21
+#@ simple-feedback-td
+msgid "Search Topics"
+msgstr "Sujets de recherche"
+
+#: inc/register-post-type.php:23
+#@ simple-feedback-td
+msgid "Parent Topic"
+msgstr "parent sujet"
+
+#: inc/the-topic.php:71
+#@ simple-feedback-td
+msgid "<strong>Important:</strong> This topic ends at "
+msgstr "<strong>Important:</strong> Ce sujet se termine à"
+
+#: inc/the-topic.php:73
+#@ simple-feedback-td
+msgid "<strong>Important:</strong> This vote ended and is "
+msgstr "Ce vote a pris fin et est"
+
+#: inc/the-topic.php:77
+#@ simple-feedback-td
+msgid "For it"
+msgstr "Pour cette"
+
+#: inc/the-topic.php:133
+#@ simple-feedback-td
+msgid "Against"
+msgstr "En revanche"
+
